@@ -1,0 +1,7 @@
+cd  
+git clone https://github.com/Zammalad/SDL2-XCode-Template  
+cd SDL2-XCode-Template/
+#需要保证此目录已经存在  
+cp -r Project\ Templates/ ~/Library/Developer/Xcode/Templates/Project\ Templates/  
+cd  
+rm -rf SDL2-XCode-Template/  
